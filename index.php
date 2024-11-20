@@ -246,7 +246,7 @@ tanggallengkap = namahari[hari] + ", " +tanggal + " " + namabulan[bulan] + " " +
                           <div class="form-group">
                               <label class="col-sm-2 col-sm-2 control-label">Saran</label>
                               <div class="col-sm-10">
-                                  <textarea rows="4" name="saran" id="saran" class="form-control" placeholder="Saran Anda untuk PerPusWeb" cols="25"></textarea>
+                                  <textarea rows="4" name="saran" id="saran" class="form-control" placeholder="Masukan untuk ILibrary" cols="25"></textarea>
                                   <!--<span class="help-block">A block of help text that breaks onto a new line and may extend beyond one line.</span>-->
                               </div>
                           </div>
@@ -344,7 +344,7 @@ tanggallengkap = namahari[hari] + ", " +tanggal + " " + namabulan[bulan] + " " +
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-        <h4 class="modal-title" id="myModalLabel">PerPusWeb PRO</h4>
+        <h4 class="modal-title" id="myModalLabel">ILibrary</h4>
       </div>
       <div class="modal-body">
       ILibrary adalah website perpustakaan yang responsif, I-Libry Versi ini adalah versi untuk info, saran, maupun kritik bisa menghubungi
