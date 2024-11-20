@@ -11,7 +11,7 @@ if (empty($_SESSION['username'])){
     <meta charset="UTF-8">
     <title>ILibrary (Library Management System)</title>
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
-    <meta name="description" content="Sarjana Komedi">
+    <meta name="description" content="Kelompok 4">
     <meta name="keywords" content="Perpus, Website, Aplikasi, Perpustakaan, Online">
     <!-- bootstrap 3.0.2 -->
     <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" />
@@ -162,8 +162,8 @@ $_SESSION['start_time'] = time();
 
                                 <!-- </div> -->
                                 <div class="panel-body table-responsive">
-                                <h1><b>Halaman Ini Hanya Tersedia di PerPusWeb Pro</b></h1>
-                                    <p>ILibrary versi masih dalam pengembangan jadi masih terbatas fitur juga penggunaanya.<a href="http://www.sarjanakomedi.com" target="_blank">Sarjana Komedi</a>  di</p>
+                                <h1><b>Halaman Ini ILibrary masih dalam pengembangan</b></h1>
+                                    <p>ILibrary versi masih dalam pengembangan jadi masih terbatas fitur juga penggunaanya.<a href="http://www.sarjanakomedi.com" target="_blank">Kelompok 4</a>  di</p>
                                     <table>
                                     <tr>
                                     <td>SMS / TLP / WA</td>
@@ -186,7 +186,7 @@ $_SESSION['start_time'] = time();
                                     <td><a href="http://www.sarjanakomedi.com" target="_blank">www.sarjanakomedi.com</a></td>
                                     </tr>
                                     </table><br />
-                                    <pre>ILibrary versi ini adalah Free Version, dapatkan yang Pro version di <a href="http://www.sarjanakomedi.com" target="_blank">www.sarjanakomedi.com</a></td> </pre>
+                                    <pre>ILibrary versi ini adalah versi pengembangan <a href="http://www.sarjanakomedi.com" target="_blank">www.sarjanakomedi.com</a></td> </pre>
                                 </div><!-- /.box-body -->
                             </div><!-- /.box -->
                         </div>
