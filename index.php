@@ -347,7 +347,7 @@ tanggallengkap = namahari[hari] + ", " +tanggal + " " + namabulan[bulan] + " " +
         <h4 class="modal-title" id="myModalLabel">ILibrary</h4>
       </div>
       <div class="modal-body">
-      ILibrary adalah website perpustakaan yang responsif, I-Libry Versi ini adalah versi untuk info, saran, maupun kritik bisa menghubungi
+      ILibrary adalah website perpustakaan yang responsif, I-Libry Versi ini adalah versi pengembangan untuk info, saran, maupun kritik bisa menghubungi
       Kelompok 4 :
       <table>
       <tr>
