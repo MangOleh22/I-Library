@@ -246,7 +246,7 @@ $_SESSION['start_time'] = time();
               <!-- row end -->
                 </section><!-- /.content -->
                 <div class="footer-main">
-                    Copyright &copy <a href="http://www.hakkoblogs.com" target="_blank">PerPusWeb</a> 2015
+                    Copyright &copy <a href="http://www.hakkoblogs.com" target="_blank">ILibrary</a> 2024
                 </div>
             </aside><!-- /.right-side -->
 
