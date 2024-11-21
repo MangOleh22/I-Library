@@ -11,7 +11,7 @@ if (empty($_SESSION['username'])){
     <meta charset="UTF-8">
     <title>ILibrary (Library Management System)</title>
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
-    <meta name="description" content="Hakko Bio Richard">
+    <meta name="description" content="Kelompok 4">
     <meta name="keywords" content="Perpus, Website, Aplikasi, Perpustakaan, Online">
     <!-- bootstrap 3.0.2 -->
     <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" />
@@ -108,7 +108,7 @@ if (isset($_SESSION['start_time'])) {
     $elapsed_time = time() - $_SESSION['start_time'];
     if ($elapsed_time >= $timeout) {
         session_destroy();
-        echo "<script>alert('Session Anda Telah Habis!'); window.location = '$logout_redirect_url'</script>";
+        echo "<script>alert('Sesi Telah Habis!'); window.location = '$logout_redirect_url'</script>";
     }
 }
 $_SESSION['start_time'] = time();
@@ -194,7 +194,7 @@ $_SESSION['start_time'] = time();
               <!-- row end -->
                 </section><!-- /.content -->
                 <div class="footer-main">
-                    Copyright &copy <a href="http://www.hakkoblogs.com" target="_blank">ILibrary</a>2024
+                    Copyright &copy <a href="http://www.hakkoblogs.com" target="_blank">ILibrary</a> 2024
                 </div>
             </aside><!-- /.right-side -->
 
